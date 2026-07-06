@@ -10,5 +10,4 @@ The message creates unnecessary pressure.
 The request does not match normal business processes.
 
 Technology blocks many attacks, but thoughtful users stop many others.
-
 Taking a few extra seconds before clicking is one of the simplest security habits anyone can develop
